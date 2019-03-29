@@ -1,4 +1,4 @@
-package IteratorPattern;
+package pattern.iterator;
 
 public class TestIterator {
 	public static void main(String[] args) {
